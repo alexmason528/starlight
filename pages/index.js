@@ -57,7 +57,7 @@ class Index extends Component {
 
           .form .form-group label {
             display: inline-block;
-            width: 200px;
+            width: 130px;
             margin-right: 15px;
             text-align: right;
           }
